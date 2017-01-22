@@ -1,0 +1,45 @@
+{
+  "name": "nodebot-consuming-msgraph-apis",
+  "version": "0.1.0",
+  "description": "This sample demonstrates how to use Microsoft Graph API in bot using node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geekwhocodes/nodebot-consuming-MSgraphAPI.git"
+  },
+  "keywords": [
+    "node",
+    "bot",
+    "node bot",
+    "nodebot",
+    "microsoft graph",
+    "node bot auth",
+    "node bot auth azure ad",
+    "azure ad",
+    "azure active directory nodejs"
+  ],
+  "author": "Ganesh Raskar | <ganeshraskar@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geekwhocodes/nodebot-consuming-MSgraphAPI/issues"
+  },
+  "homepage": "https://github.com/geekwhocodes/nodebot-consuming-MSgraphAPI#readme",
+  "dependencies": {
+    "botbuilder": "*",
+    "bunyan": "^1.8.5",
+    "dotenv": "^2.0.0",
+    "envx": "^1.0.0",
+    "express-session": "^1.14.2",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "passport": "^0.3.2",
+    "passport-azure-ad": "^3.0.4",
+    "querystring": "^0.2.0",
+    "request": "^2.79.0",
+    "restify": "^4.1.1"
+  }
+}
