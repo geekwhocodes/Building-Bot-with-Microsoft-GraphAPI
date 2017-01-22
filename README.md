@@ -4,9 +4,6 @@ This sample build using Microsoft Bot Builder framework to demonstrate how to co
 #Setup
 
 Prerequisites
-
-    A LUIS model trained
-    A Slack account you can add a bot to
     
     #Install components
 
